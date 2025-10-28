@@ -24,4 +24,4 @@ Each pixel’s RGB values are modified using **XOR encryption**, making the imag
 
 ## 🖥️ Usage
 ```bash
- image_encryption.py
+  image_encryption.py
