@@ -1,4 +1,4 @@
-# SkillCraft - Image Encryption Tool 🧠🔐
+# - Image Encryption Tool 🧠🔐
 
 ## 📌 Overview
 This project demonstrates a simple image encryption and decryption system using **pixel manipulation** techniques.  
